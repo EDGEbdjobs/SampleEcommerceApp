@@ -1,0 +1,15 @@
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\bin\Debug\net7.0\Ecommerce.Services.Abstractions.deps.json
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\bin\Debug\net7.0\Ecommerce.Services.Abstractions.dll
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\bin\Debug\net7.0\Ecommerce.Services.Abstractions.pdb
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\bin\Debug\net7.0\Ecommerce.Models.dll
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\bin\Debug\net7.0\Ecommerce.Models.pdb
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.csproj.AssemblyReference.cache
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.AssemblyInfoInputs.cache
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.AssemblyInfo.cs
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.csproj.CoreCompileInputs.cache
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.csproj.CopyComplete
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.dll
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\refint\Ecommerce.Services.Abstractions.dll
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\Ecommerce.Services.Abstractions.pdb
+F:\SM\SampleEcommerceApp\Ecommerce.Services.Abstractions\obj\Debug\net7.0\ref\Ecommerce.Services.Abstractions.dll

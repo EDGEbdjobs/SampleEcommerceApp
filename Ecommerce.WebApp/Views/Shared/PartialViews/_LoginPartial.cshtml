@@ -1,0 +1,20 @@
+﻿
+
+
+<div>
+    @if (User.Identity!=null && User.Identity.IsAuthenticated)
+    {
+        <form method="post" asp-action="Logout" asp-controller="Account">
+            <input class="btn btn-primary" type="submit" value="Sign Out"/>
+        </form>
+
+    }
+    else
+    {
+        <p>
+            <a class="btn btn-success" href="/account/login">Login</a>
+            <a class="btn btn-primary" href="/account/register">Register</a>
+        </p>
+    }
+
+</div>
