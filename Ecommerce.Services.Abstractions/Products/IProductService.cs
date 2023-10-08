@@ -10,5 +10,6 @@ namespace Ecommerce.Services.Abstractions.Products
 {
     public interface IProductService : IService<Product>
     {
+        Product GetById(int id);
     }
 }

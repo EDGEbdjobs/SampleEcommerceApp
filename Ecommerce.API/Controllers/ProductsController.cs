@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/products")]
     [ApiController]
     public class ProductsController : ControllerBase
     {
@@ -18,6 +18,19 @@ namespace Ecommerce.API.Controllers
         public ICollection<Product> Get()
         {
             return _productService.GetAll(); 
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+       {
+            var product =  _productService.GetById(id);
+
+            if (product != null)
+            {
+                return Ok(product);
+            }
+
+            return BadRequest("Product Not Found!");
         }
 
         [HttpPost]

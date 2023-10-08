@@ -18,5 +18,10 @@ namespace Ecommerce.Services.Products
         {
             this._productRepository = repository;
         }
+
+        public Product GetById(int id)
+        {
+            return this._productRepository.GetById(id); 
+        }
     }
 }
