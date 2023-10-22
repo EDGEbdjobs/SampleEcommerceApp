@@ -22,7 +22,7 @@ namespace Ecommerce.API.Controllers
 
         [HttpGet("{id}")]
         public IActionResult Get(int id)
-       {
+        {
             var product =  _productService.GetById(id);
 
             if (product != null)
@@ -46,8 +46,6 @@ namespace Ecommerce.API.Controllers
             }
 
             return BadRequest("Product Could not be saved!");
-
-
         }
 
     }
